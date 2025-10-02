@@ -50,4 +50,7 @@ Open notebooks in order:
 
 ## Author
 Jean Granger - AI and ML Enthusiast | Aspiring MSc in AI
-linked [https://
+[LinkedIn](https://linkedin.com/in/ange-granger-jean-365b94320) — jeannange001@gmail.com - aeagsjean@st.knust.edu.gh
+
+## License
+This project is released under the MIT License.
